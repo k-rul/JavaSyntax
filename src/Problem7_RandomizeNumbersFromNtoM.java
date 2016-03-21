@@ -1,9 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- * Created by Momchil on 19-Mar-16.
- */
 public class Problem7_RandomizeNumbersFromNtoM {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
