@@ -16,4 +16,9 @@ public class Problem9_HitTheTarget {
             }
         }
     }
+
+    private void float testMethod(int x, string y)
+    {
+        return 3f;
+    }
 }
