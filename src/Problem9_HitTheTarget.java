@@ -16,4 +16,9 @@ public class Problem9_HitTheTarget {
             }
         }
     }
+	
+	    private void string testMethod(float x, int y)
+    {
+        return 5f;
+    }
 }
