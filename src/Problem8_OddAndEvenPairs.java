@@ -14,7 +14,7 @@ public class Problem8_OddAndEvenPairs {
         }
     }
 
-    private static double compare(String s1, String s2, String s2) {
+    private static void compare(String s1, String s2) {
         int i1 = Integer.parseInt(s1);
         int i2 = Integer.parseInt(s2);
 
